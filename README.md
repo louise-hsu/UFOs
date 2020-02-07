@@ -65,4 +65,4 @@ The technologies used were javascript, bootstrap, and html. The raw data (data.j
 
 ## Recommendation
 
-I would recommend gathering more raw data of information of who claimed these UFO sightings. Looking at age ranges of the UFO claims would be interesting, and give you information of how accurate these sightings are. For example, if many of these UFO sightings were claimed by 5-10 yr olds, the UFO sighting would be less credible. If the age range was a in the middle, more people might find the UFO sightings more believable and be interested in the topic. 
+I would recommend gathering more raw data on who claimed these UFO sightings. Looking at age ranges of the UFO claims would be interesting, and give you information of how accurate these sightings are. For example, if many of these UFO sightings were claimed by 5-10 year olds, the UFO sighting would be less credible. We all know that young kids have crazy imaginations. If the age range was a in the middle, more people might find the UFO sightings more believable and be interested in the topic. 
