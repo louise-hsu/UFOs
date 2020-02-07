@@ -56,7 +56,13 @@ To create these additional filters, keep the following points in mind:
       - Rebuild the table by calling the buildTable(); function created earlier.
 - Finally, using d3.selectAll();, attach an event listener to pick up changes that are made to each filter.
 
-## Summary Challenge
+## Summary 
 ***Please note the code/information can be found in app.js and when running the html
 
-All data can be filtered by the 5 total categories on the html page. 
+The purpose of the challenge is to be able to filter the UFO sighting data by date, city, state, country, and shape in a visually organized html. 
+
+The technologies used were javascript, bootstrap, and html. The raw data (data.js) and filter functionality (app.js) were written with javascript. The app.js pulls and filters the raw data. The bootstrap contains CSS- and JavaScript-based design templates for typography, forms, buttons, navigation and other interface components, which is where the type of style comes from. The html is where all the data is organized and the filter input is entered. 
+
+## Recommendation
+
+I would recommend gathering more raw data of information of who claimed these UFO sightings. Looking at age ranges of the UFO claims would be interesting, and give you information of how accurate these sightings are. For example, if many of these UFO sightings were claimed by 5-10 yr olds, the UFO sighting would be less credible. If the age range was a in the middle, more people might find the UFO sightings more believable and be interested in the topic. 
